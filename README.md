@@ -1,7 +1,7 @@
 # random-password-generator
 python Script that Generates random passwords and copies on clipboard
 
-##To Run this Project you need :
+**To Run this Project you need :
 *python
 *Pyperscript module
 
