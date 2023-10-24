@@ -5,5 +5,6 @@ Python script that Generates random passwords and copies on the clipboard
 - Python
 - Pyperscript module
 
-Visit the installation guide for pip and follow the steps to install pip.
+Visit the [installation guide](https://pip.pypa.io/en/stable/installation/#ensurepip)
+for pip and follow the steps to install pip.
 Then run pip ```pip install pyperclip``` in command prompt or pwershell.
