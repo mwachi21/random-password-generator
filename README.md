@@ -7,5 +7,5 @@ Python script that Generates random passwords and copies on the clipboard
 
 Visit the [installation guide](https://pip.pypa.io/en/stable/installation/#ensurepip)
 for pip and follow the steps to install pip.
-Then run pip ```pip install pyperclip``` in Terminal (MacOS, Linux), command prompt/powershell (Windows), or
+run pip ```pip install pyperclip``` in Terminal (MacOS, Linux), command prompt/powershell (Windows), or <br>
 run ```pip3 install pyperclip``` Termux (Android)
