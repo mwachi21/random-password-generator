@@ -9,8 +9,14 @@ Visit the [installation guide](https://pip.pypa.io/en/stable/installation/#ensur
 for pip and follow the steps to install pip.
 Then run pip 
 ```bash
-$ pip install pyqrcode
+$ pip install pyperclip
 ```
  in command prompt or powershell.
-run pip ```pip install pyperclip``` in Terminal (MacOS, Linux), command prompt/powershell (Windows), or <br>
-run ```pip3 install pyperclip``` Termux (Android)
+run pip ```bash
+$ pip install pyperclip
+```
+in Terminal (MacOS, Linux), command prompt/powershell (Windows), or <br>
+run
+ ```bash
+$ pip3 install pyperclip```
+Termux (Android)
