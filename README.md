@@ -12,3 +12,5 @@ Then run pip
 $ pip install pyqrcode
 ```
  in command prompt or powershell.
+run pip ```pip install pyperclip``` in Terminal (MacOS, Linux), command prompt/powershell (Windows), or <br>
+run ```pip3 install pyperclip``` Termux (Android)
